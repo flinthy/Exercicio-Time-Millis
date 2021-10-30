@@ -5,7 +5,7 @@ import java.util.Date;
 public class Main {
 
     public static void main(String[] args) {
-        Date dataNascimento = new Date(111380400000l);
+        Date dataNascimento = new Date(111380400000L);
         System.out.println("Nasci na data: " + dataNascimento);
 
         Date novaData = new Date(1273934783000L);
